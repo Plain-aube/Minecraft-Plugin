@@ -1,6 +1,5 @@
-# Minecraft-WelcomePlugin
-Just a normal Welcome Plugins
-
+# WelcomePlugin
+플레이어 접속 시 안내 메세지를 띄우고, 플레이어를 반겨주는 플러그인.
 
 
 
