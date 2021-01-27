@@ -1,5 +1,0 @@
-name: WelcomePlugin
-version: 1.4
-main: io.plain.Main
-api-version: 1.16
-description: Plain 입장 플러그인입니다.
